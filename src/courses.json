@@ -1,0 +1,1282 @@
+[
+    {
+        "branch": "Aerospace Engineering",
+        "courses": [
+            {
+                "code": "AM1100",
+                "name": "Engineering Mechanics"
+            },
+            {
+                "code": "CY1001",
+                "name": "Chemistry"
+            },
+            {
+                "code": "MA1101",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "ME1120",
+                "name": "Engineering Drawing"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "AS1020",
+                "name": "Fluid Mechanics"
+            },
+            {
+                "code": "AS2010",
+                "name": "Basic Strength of Materials"
+            },
+            {
+                "code": "MA1102",
+                "name": "Series And Matrices"
+            },
+            {
+                "code": "AS2101",
+                "name": "Introduction to Aerospace Engg"
+            },
+            {
+                "code": "MA2010",
+                "name": "Complex Variables"
+            },
+            {
+                "code": "AS2030",
+                "name": "Gas Dynamics"
+            },
+            {
+                "code": "AS2050",
+                "name": "Aerodynamics"
+            },
+            {
+                "code": "AS2070",
+                "name": "Aerospace Structural Mechanics"
+            },
+            {
+                "code": "AS2080",
+                "name": "Vibrations"
+            },
+            {
+                "code": "AS2510",
+                "name": "Low speed lab"
+            },
+            {
+                "code": "MA2020",
+                "name": "Differential Equations"
+            },
+            {
+                "code": "AS2040",
+                "name": "Flight Dynamics"
+            },
+            {
+                "code": "AS3020",
+                "name": "Aerospace Structures"
+            },
+            {
+                "code": "AS3270",
+                "name": "Propulsion"
+            },
+            {
+                "code": "AS3050",
+                "name": "Flight Dynamics II"
+            },
+            {
+                "code": "AS3271",
+                "name": "Propulsion II"
+            },
+            {
+                "code": "AS1300",
+                "name": "Propulsion"
+            },
+            {
+                "code": "CS1100",
+                "name": "Introduction to Programming"
+            },
+            {
+                "code": "PH1020",
+                "name": "Physics II"
+            }
+        ]
+    },
+    {
+        "branch": "BioTechnology",
+        "courses": [
+            {
+                "code": "BT1000",
+                "name": "Introduction to Biological Sciences and Engg."
+            },
+            {
+                "code": "CY1001",
+                "name": "Chemistry"
+            },
+            {
+                "code": "MA1102",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "CY1051",
+                "name": "Chemistry 2"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "EE1101",
+                "name": "Signals and Systems"
+            },
+            {
+                "code": "PH1020",
+                "name": "Physics 2"
+            },
+            {
+                "code": "BT1020",
+                "name": "Material and Energy Balances"
+            },
+            {
+                "code": "AM1100",
+                "name": "Engineering Mechanics"
+            },
+            {
+                "code": "BT2010",
+                "name": "Microbiology"
+            },
+            {
+                "code": "BT2030",
+                "name": "Biochemistry"
+            },
+            {
+                "code": "BT2111",
+                "name": "Microbiology and Biochemistry Lab"
+            },
+            {
+                "code": "BT2061",
+                "name": "Thermodynamics of Biological Systems"
+            },
+            {
+                "code": "BT2020",
+                "name": "Numerical Methods for Biology"
+            },
+            {
+                "code": "BT2041",
+                "name": "Biological Rate Processes"
+            },
+            {
+                "code": "ME1120",
+                "name": "Engineering Drawing"
+            },
+            {
+                "code": "BT3012",
+                "name": "Molecular Biology"
+            },
+            {
+                "code": "BT5051",
+                "name": "Transport Phenomena in Biological Systems"
+            },
+            {
+                "code": "BT2121",
+                "name": "Genetic Engineering Lab"
+            },
+            {
+                "code": "BT3020",
+                "name": "Structural Biology"
+            },
+            {
+                "code": "BT3041",
+                "name": "Analysis and Interpretation of Biological Data"
+            },
+            {
+                "code": "BT3110",
+                "name": "Biomolecular Analysis Lab"
+            },
+            {
+                "code": "BT4020",
+                "name": "Introduction to Research Methodology"
+            },
+            {
+                "code": "HS3050",
+                "name": "Professional Ethics"
+            }
+        ]
+    },
+    {
+        "branch": "Chemical Engineering",
+        "courses": [
+            {
+                "code": "AM1100",
+                "name": "Engineering Mechanics"
+            },
+            {
+                "code": "CY1001",
+                "name": "Chemistry"
+            },
+            {
+                "code": "MA1101",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "ME1100",
+                "name": "Thermodynamics"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "PH1020",
+                "name": "Physics II"
+            },
+            {
+                "code": "CS1100",
+                "name": "Introduction to Programming"
+            },
+            {
+                "code": "MA1102",
+                "name": "Series And Matrices"
+            },
+            {
+                "code": "CH2010",
+                "name": "Chemical Engineering Thermodynamics"
+            },
+            {
+                "code": "CH2012",
+                "name": "Continuum Mechanics & Transport Phenomena"
+            },
+            {
+                "code": "CH2013",
+                "name": "Computational Programming & Process Simulation Lab"
+            },
+            {
+                "code": "CH2061",
+                "name": "Computational Techniques"
+            },
+            {
+                "code": "CH2014",
+                "name": "Fundamentals of Heat & Mass Transfer"
+            },
+            {
+                "code": "CH2015",
+                "name": "Fluid and Particle Mechanics"
+            },
+            {
+                "code": "CH2016",
+                "name": "Thermodynamics Lab"
+            },
+            {
+                "code": "CY2010",
+                "name": "Kinetics and Catalysis"
+            },
+            {
+                "code": "EE1100",
+                "name": "Basic Electrical Engineering"
+            },
+            {
+                "code": "CH3030",
+                "name": "Applications of Mass Transfer"
+            },
+            {
+                "code": "CH3010",
+                "name": "Chemical Reaction Engineering"
+            },
+            {
+                "code": "CH3510",
+                "name": "Mom Transfer & MO Lab"
+            },
+            {
+                "code": "CH3052",
+                "name": "Materials Science for Chemical Engineers"
+            },
+            {
+                "code": "CH3050",
+                "name": "Process Dynamics & Control"
+            },
+            {
+                "code": null,
+                "name": "Plant, Process & Product Design"
+            },
+            {
+                "code": null,
+                "name": "Chemical Technology"
+            }
+        ]
+    },
+    {
+        "branch": "Civil Engineering",
+        "courses": [
+            {
+                "code": "AM1100",
+                "name": "Engineering Mechanics"
+            },
+            {
+                "code": "CY1001",
+                "name": "Chemistry"
+            },
+            {
+                "code": "MA1101",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "ME1100",
+                "name": "Introduction to Civil Engg"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "PH1020",
+                "name": "Physics II"
+            },
+            {
+                "code": "CS1100",
+                "name": "Introduction to Programming"
+            },
+            {
+                "code": "MA1102",
+                "name": "Series And Matrices"
+            },
+            {
+                "code": "ME1120",
+                "name": "Engg. Drawing"
+            },
+            {
+                "code": "CE2330",
+                "name": "CE Materials and Construction"
+            },
+            {
+                "code": "CE2310",
+                "name": "Mechanics of Materials"
+            },
+            {
+                "code": "CE3010",
+                "name": "Transportation Engineering - 1"
+            },
+            {
+                "code": "CE2040",
+                "name": "Hydraulic Engineering"
+            },
+            {
+                "code": "CE2080",
+                "name": "Surveying"
+            },
+            {
+                "code": "CE2020",
+                "name": "Structural Analysis"
+            },
+            {
+                "code": "CE2060",
+                "name": "Geotechnical Engineering - 1"
+            },
+            {
+                "code": "CE3020",
+                "name": "Transportation Engineering - 2"
+            },
+            {
+                "code": "CE3040",
+                "name": "Environmental Engineering"
+            },
+            {
+                "code": "BT1010",
+                "name": "Life Sciences"
+            },
+            {
+                "code": "CE3350",
+                "name": "Geotechnical Engineering - 2"
+            },
+            {
+                "code": "CE3030",
+                "name": "Water Resources Engineering"
+            },
+            {
+                "code": "CE3060",
+                "name": "Basic RC Design"
+            },
+            {
+                "code": "CE4030",
+                "name": "Hydraulic & Environ. Engg. Lab"
+            },
+            {
+                "code": "CE3410",
+                "name": "Construction Material Lab"
+            },
+            {
+                "code": "CE4010",
+                "name": "Construction Project Mgmt"
+            },
+            {
+                "code": "CE3050",
+                "name": "Basic Steel Design"
+            },
+            {
+                "code": "CE3100",
+                "name": "Structural Engg. Lab"
+            }
+        ]
+    },
+    {
+        "branch": "Computer Science & Engineering",
+        "courses": [
+            {
+                "code": "AM1100",
+                "name": "Engineering Mechanics"
+            },
+            {
+                "code": "CY1001",
+                "name": "Chemistry"
+            },
+            {
+                "code": "MA1101",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "ME1100",
+                "name": "Introduction to Civil Engg"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "PH1020",
+                "name": "Physics II"
+            },
+            {
+                "code": "CS1100",
+                "name": "Introduction to Programming"
+            },
+            {
+                "code": "MA1102",
+                "name": "Series And Matrices"
+            },
+            {
+                "code": "ME1120",
+                "name": "Engg. Drawing"
+            },
+            {
+                "code": "CS1200",
+                "name": "Discrete Mathematics for CS"
+            },
+            {
+                "code": "EE1100",
+                "name": "Basic Electrical Engineering"
+            },
+            {
+                "code": "CY1002",
+                "name": "Chemistry Lab"
+            },
+            {
+                "code": "MA2130",
+                "name": "Basic Graph Theory"
+            },
+            {
+                "code": "CS2700",
+                "name": "Programming and Data Structures"
+            },
+            {
+                "code": "CS2710",
+                "name": "Programming and Data Structures Lab"
+            },
+            {
+                "code": "CS2300",
+                "name": "Foundations of Computer Systems Design"
+            },
+            {
+                "code": "CS2310",
+                "name": "Foundations of Computer Systems Design Lab"
+            },
+            {
+                "code": "CS2200",
+                "name": "Languages, Machines, and Computations"
+            },
+            {
+                "code": "CS2800",
+                "name": "Design and Analysis of Algorithms"
+            },
+            {
+                "code": "CS2600",
+                "name": "Computer Organization and Architecture"
+            },
+            {
+                "code": "CS2610",
+                "name": "Computer Organization and Architecture Lab"
+            },
+            {
+                "code": "CS2810",
+                "name": "Object-Oriented Algorithms Implementation and Analysis Lab"
+            },
+            {
+                "code": "MA2040",
+                "name": "Probability, Stochastic Process and Statistics"
+            },
+            {
+                "code": "CS3100",
+                "name": "Paradigms of Programming"
+            },
+            {
+                "code": "CS3500",
+                "name": "Operating Systems"
+            },
+            {
+                "code": "CS3300",
+                "name": "Compiler Design"
+            },
+            {
+                "code": "BT1010",
+                "name": "Life Sciences"
+            },
+            {
+                "code": "HS3050",
+                "name": "Professional Ethics"
+            }
+        ]
+    },
+    {
+        "branch": "Electrical Engineering",
+        "courses": [
+            {
+                "code": "AM1100",
+                "name": "Engineering Mechanics"
+            },
+            {
+                "code": "CY1001",
+                "name": "Chemistry"
+            },
+            {
+                "code": "MA1101",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "EE2001",
+                "name": "Digital Systems & Lab"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "PH1020",
+                "name": "Physics II"
+            },
+            {
+                "code": "CS1100",
+                "name": "Introduction to Programming"
+            },
+            {
+                "code": "MA1102",
+                "name": "Series And Matrices"
+            },
+            {
+                "code": "EE1101",
+                "name": "Signals & Systems"
+            },
+            {
+                "code": "EE2015",
+                "name": "Electric Circuits & Networks"
+            },
+            {
+                "code": "EE2016",
+                "name": "Microprocessor Theory + Lab"
+            },
+            {
+                "code": "EE2025",
+                "name": "Engineering Electromagnetics"
+            },
+            {
+                "code": "EE2005",
+                "name": "Electrical Machines & Lab"
+            },
+            {
+                "code": "EE2019",
+                "name": "Analog Systems & Lab"
+            },
+            {
+                "code": "EE2004",
+                "name": "Digital Signal Processing"
+            },
+            {
+                "code": "EE3001",
+                "name": "Solid State Devices"
+            },
+            {
+                "code": "EE2703",
+                "name": "Applied Programming Lab"
+            },
+            {
+                "code": "EE3004",
+                "name": "Control Engg"
+            },
+            {
+                "code": "EE3006",
+                "name": "Principles of Measurement"
+            },
+            {
+                "code": "BT1010",
+                "name": "Life sciences"
+            },
+            {
+                "code": "ME3100",
+                "name": "Basic Thermal Engineering"
+            },
+            {
+                "code": "HS3050",
+                "name": "Professional Ethics"
+            }
+        ]
+    },
+    {
+        "branch": "Engineering Design",
+        "courses": [
+            {
+                "code": "AM1100",
+                "name": "Engineering Mechanics"
+            },
+            {
+                "code": "ED1021",
+                "name": "Intro. to Computation & Visualization"
+            },
+            {
+                "code": "MA1101",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "ED1031",
+                "name": "Creative Design"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "ED1011",
+                "name": "Functional and Conceptual Design"
+            },
+            {
+                "code": "ED2090",
+                "name": "Geometric Modelling and CAD"
+            },
+            {
+                "code": "MA1102",
+                "name": "Series And Matrices"
+            },
+            {
+                "code": "ED1033",
+                "name": "Form and Aesthetics in Design I"
+            },
+            {
+                "code": "EE1101",
+                "name": "Signals and Systems"
+            },
+            {
+                "code": "ED1034",
+                "name": "Form and Aesthetics in Design II"
+            },
+            {
+                "code": "ED2141",
+                "name": "Physics of Measurement"
+            },
+            {
+                "code": "ED2012",
+                "name": "Manufacturing Processes"
+            },
+            {
+                "code": "ED2011",
+                "name": "Design of Mechanical Systems 1"
+            },
+            {
+                "code": "MA2020",
+                "name": "Differential Equations"
+            },
+            {
+                "code": "ED2130",
+                "name": "Analog and Digital Electronics"
+            },
+            {
+                "code": "CY1050",
+                "name": "Macromolecules as Engg Materials"
+            },
+            {
+                "code": "PH5050",
+                "name": "Mathematical Physics-II"
+            },
+            {
+                "code": "ED4040",
+                "name": "Design of Thermal and Fluid Systems"
+            },
+            {
+                "code": "ED2040",
+                "name": "Control Systems"
+            },
+            {
+                "code": "ED4060",
+                "name": "Design of Mechanical Systems 2"
+            },
+            {
+                "code": "HS3050",
+                "name": "Professional Ethics"
+            }
+        ]
+    },
+    {
+        "branch": "Engineering Physics",
+        "courses": [
+            {
+                "code": "CS1100",
+                "name": "Introduction to Programming"
+            },
+            {
+                "code": "CY1001",
+                "name": "Chemistry"
+            },
+            {
+                "code": "MA1102",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "CY1051",
+                "name": "Chemistry 2"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "PH1080",
+                "name": "Thermodynamics and Kinetic Theory"
+            },
+            {
+                "code": "PH1030",
+                "name": "Physics Lab"
+            },
+            {
+                "code": "MA1102",
+                "name": "Series And Matrices"
+            },
+            {
+                "code": "PH1020",
+                "name": "Physics 2"
+            },
+            {
+                "code": "EE2001",
+                "name": "Digital Systems & Lab"
+            },
+            {
+                "code": "EE1101",
+                "name": "Signals & Systems"
+            },
+            {
+                "code": "EE2015",
+                "name": "Electric Circuits & Networks"
+            },
+            {
+                "code": "EP2110",
+                "name": "Intro Math Phys"
+            },
+            {
+                "code": "EP3110",
+                "name": "Electromagnetics and Applications"
+            },
+            {
+                "code": "EP2090",
+                "name": "EP Lab 1"
+            },
+            {
+                "code": "EE2004",
+                "name": "Digital Signal Processing"
+            },
+            {
+                "code": "EE2019",
+                "name": "Analog Systems & Lab"
+            },
+            {
+                "code": "EP3190",
+                "name": "EP Lab 2"
+            },
+            {
+                "code": "ME1480",
+                "name": "Engg. Drawing"
+            },
+            {
+                "code": "EP2102",
+                "name": "Classical Dynamics"
+            },
+            {
+                "code": "EP2210",
+                "name": "Quantum Mechanics"
+            },
+            {
+                "code": "EP3290",
+                "name": "EP Lab 3"
+            },
+            {
+                "code": "EP3120",
+                "name": "Statistical Physics"
+            },
+            {
+                "code": "BT1010",
+                "name": "Life Sciences"
+            },
+            {
+                "code": "EP3220",
+                "name": "Solid State Physics"
+            },
+            {
+                "code": "EP3291",
+                "name": "EP Lab 4"
+            },
+            {
+                "code": "EE3001",
+                "name": "Solid State Devices"
+            },
+            {
+                "code": "HS3050",
+                "name": "Professional Ethics"
+            }
+        ]
+    },
+    {
+        "branch": "Mechanical Engineering",
+        "courses": [
+            {
+                "code": "AM1100",
+                "name": "Engineering Mechanics"
+            },
+            {
+                "code": "CY1001",
+                "name": "Chemistry"
+            },
+            {
+                "code": "MA1101",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "ME1100",
+                "name": "Thermodynamics"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "PH1020",
+                "name": "Physics II"
+            },
+            {
+                "code": "CS1100",
+                "name": "Introduction to Programming"
+            },
+            {
+                "code": "MA1102",
+                "name": "Series And Matrices"
+            },
+            {
+                "code": "ME1480",
+                "name": "Engineering drawing"
+            },
+            {
+                "code": "MA2020",
+                "name": "Differential equations"
+            },
+            {
+                "code": "EE1100",
+                "name": "Basic electrical engineering"
+            },
+            {
+                "code": "AM2200",
+                "name": "Strength of materials"
+            },
+            {
+                "code": "AM2530",
+                "name": "Foundations of fluid mechanics"
+            },
+            {
+                "code": "ME2201",
+                "name": "Kinematics and dynamics of machinery"
+            },
+            {
+                "code": "AM2540",
+                "name": "Applied mechanics/ Fluid mechanics lab"
+            },
+            {
+                "code": "ME2100",
+                "name": "Applied thermal engineering"
+            },
+            {
+                "code": "ME2200",
+                "name": "Materials and design"
+            },
+            {
+                "code": "ME2300",
+                "name": "Manufacturing processes"
+            },
+            {
+                "code": "ME2400",
+                "name": "Measurements and instrumentation"
+            },
+            {
+                "code": "ME3101",
+                "name": "Heat transfer"
+            },
+            {
+                "code": "ME3103",
+                "name": "Energy conversion systems"
+            },
+            {
+                "code": "ME3201",
+                "name": "Design of machine elements"
+            },
+            {
+                "code": "ME3301",
+                "name": "Manufacturing technology"
+            },
+            {
+                "code": "ME3481",
+                "name": "Mechanical engineering lab 1"
+            },
+            {
+                "code": "ME3281",
+                "name": "Machine drawing practice"
+            },
+            {
+                "code": "ME3302",
+                "name": "Automation in manufacturing"
+            },
+            {
+                "code": "ME3482",
+                "name": "Mechanical engineering lab 2"
+            },
+            {
+                "code": "ME3484",
+                "name": "Mechanical engineering lab 3"
+            }
+        ]
+    },
+    {
+        "branch": "Metallurgical & Material Engineering",
+        "courses": [
+            {
+                "code": "AM1100",
+                "name": "Engineering Mechanics"
+            },
+            {
+                "code": "CY1001",
+                "name": "Chemistry"
+            },
+            {
+                "code": "MA1101",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "ME1100",
+                "name": "Thermodynamics"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "PH1020",
+                "name": "Physics II"
+            },
+            {
+                "code": "CS1100",
+                "name": "Introduction to Programming"
+            },
+            {
+                "code": "MA1102",
+                "name": "Series And Matrices"
+            },
+            {
+                "code": "ME1480",
+                "name": "Engineering drawing"
+            },
+            {
+                "code": "MM1001",
+                "name": "Introduction to Metallurgical and Materials"
+            },
+            {
+                "code": "MM2013",
+                "name": "Structure of Materials"
+            },
+            {
+                "code": "MM2010",
+                "name": "Principles of Physical Metallurgy"
+            },
+            {
+                "code": "MM2015",
+                "name": "Thermodynamics of Materials"
+            },
+            {
+                "code": "MM2060",
+                "name": "Phase Transformations"
+            },
+            {
+                "code": "MM2041",
+                "name": "Transport Phenomena in Materials"
+            },
+            {
+                "code": "MM2020",
+                "name": "Deformation and failure of Materials"
+            },
+            {
+                "code": "MM3030",
+                "name": "Materials Characterization"
+            },
+            {
+                "code": "MM3090",
+                "name": "Environmental Degradation of Materials"
+            },
+            {
+                "code": "MM2080",
+                "name": "Principles of Extractive Metallurgy"
+            },
+            {
+                "code": "MM3010",
+                "name": "Physics of Materials"
+            },
+            {
+                "code": "MM3110",
+                "name": "Computational Materials Engg Lab++"
+            },
+            {
+                "code": "MM3020",
+                "name": "Ironmaking and Steelmaking"
+            },
+            {
+                "code": "MM3070",
+                "name": "Solidification Processing and Casting+"
+            },
+            {
+                "code": "MM3041",
+                "name": "Deformation Processing and Forming"
+            },
+            {
+                "code": "BT1010",
+                "name": "Life Sciences"
+            },
+            {
+                "code": "MM3100",
+                "name": "Characterization Lab"
+            },
+            {
+                "code": "MM3015",
+                "name": "Processing Lab"
+            },
+            {
+                "code": "MM3330",
+                "name": "Nonmetallic Materials"
+            }
+        ]
+    },
+    {
+        "branch": "Naval Architecture & Ocean Engineering",
+        "courses": [
+            {
+                "code": "AM1100",
+                "name": "Engineering Mechanics"
+            },
+            {
+                "code": "CY1001",
+                "name": "Chemistry"
+            },
+            {
+                "code": "MA1101",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "ME1100",
+                "name": "Thermodynamics"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "PH1020",
+                "name": "Physics II"
+            },
+            {
+                "code": "CS1100",
+                "name": "Introduction to Programming"
+            },
+            {
+                "code": "MA1102",
+                "name": "Series And Matrices"
+            },
+            {
+                "code": "OE1101",
+                "name": "Introduction to Ocean Engineering"
+            },
+            {
+                "code": "OE1012",
+                "name": "Ship Theory"
+            },
+            {
+                "code": "EE1100",
+                "name": "Basic Electrical Engg."
+            },
+            {
+                "code": "AM2530",
+                "name": "Foundation of Fluid Mechanics"
+            },
+            {
+                "code": "AM2200",
+                "name": "Strength of Materials"
+            },
+            {
+                "code": "OE2013",
+                "name": "Ship Drawing and Calculations"
+            },
+            {
+                "code": "OE2023",
+                "name": "Marine Instrumentation Lab"
+            },
+            {
+                "code": "BT1010",
+                "name": "Life Sciences"
+            },
+            {
+                "code": "OE2014",
+                "name": "Marine Engineering"
+            },
+            {
+                "code": "OE2024",
+                "name": "Analysis of Structures"
+            },
+            {
+                "code": "OE2034",
+                "name": "Ship Resistance and Propulsion"
+            },
+            {
+                "code": "OE2044",
+                "name": "Ship Hydrodynamics"
+            },
+            {
+                "code": "OE3025",
+                "name": "Ocean Wave Hydrodynamics"
+            },
+            {
+                "code": "OE3015",
+                "name": "Ship Structures"
+            },
+            {
+                "code": "OE3035",
+                "name": "Ship Motion and Control"
+            },
+            {
+                "code": "OE3045",
+                "name": "Vibration of Marine Structures & Acoustics"
+            },
+            {
+                "code": "OE3016",
+                "name": "Ship Design"
+            },
+            {
+                "code": "HS3050",
+                "name": "Professional Ethics"
+            }
+        ]
+    },
+    {
+        "branch": "Physics",
+        "courses": [
+            {
+                "code": "CY1001",
+                "name": "Chemistry"
+            },
+            {
+                "code": "CY1051",
+                "name": "Chemistry II"
+            },
+            {
+                "code": "MA1101",
+                "name": "Functions of Several Variables"
+            },
+            {
+                "code": "ME1100",
+                "name": "Thermodynamics"
+            },
+            {
+                "code": "PH1010",
+                "name": "Physics"
+            },
+            {
+                "code": "PH1020",
+                "name": "Physics II"
+            },
+            {
+                "code": "CS1100",
+                "name": "Introduction to Programming"
+            },
+            {
+                "code": "MA1102",
+                "name": "Series And Matrices"
+            },
+            {
+                "code": "EP2110",
+                "name": "Introduction to Mathematical Physics"
+            },
+            {
+                "code": "PH2170",
+                "name": "Basic Electronics"
+            },
+            {
+                "code": "EE1100",
+                "name": "Basic Electrical Engg."
+            },
+            {
+                "code": "PH2140",
+                "name": "Maths on Computer (Lab)"
+            },
+            {
+                "code": "PH2070",
+                "name": "Introduction to Biophysics"
+            },
+            {
+                "code": "BT1010",
+                "name": "Life Sciences"
+            },
+            {
+                "code": "PH5030",
+                "name": "Classical Mechanics"
+            },
+            {
+                "code": "PH5100",
+                "name": "Quantum Mechanics - I"
+            },
+            {
+                "code": "PH5040",
+                "name": "Electronics"
+            },
+            {
+                "code": "PH5050",
+                "name": "Mathematical Physics-II"
+            },
+            {
+                "code": "PH5020",
+                "name": "Electromagnetic Theory"
+            },
+            {
+                "code": "PH5080",
+                "name": "Statistical Physics"
+            },
+            {
+                "code": "PH5160",
+                "name": "Condensed Matter Physics -I"
+            },
+            {
+                "code": "PH5170",
+                "name": "Quantum Mechanics - II"
+            },
+            {
+                "code": "PH5410",
+                "name": "Nuclear, Atomic and Molecular Physic"
+            },
+            {
+                "code": "HS3050",
+                "name": "Professional Ethics"
+            }
+        ]
+    }
+]

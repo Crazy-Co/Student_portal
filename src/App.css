@@ -1,0 +1,299 @@
+.App{
+  overflow: hidden;
+}
+
+/* --------header css start-------- */
+
+.header{
+  width: 100%;
+  position: sticky;
+  top: -25px;
+  background-color: white;
+  z-index: 1;
+}
+
+.header .red{
+  background-color: #7C0B05;
+  height: 30px;
+  width: 100%;
+}
+
+.header .head > div{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 100px;
+  /* border: 2px solid red; */
+}
+
+.header .head .logo img{
+  height: 60px;
+  vertical-align: middle;
+}
+
+.header .head div .buttons button{
+  margin-left: 40px;
+  padding: 5px;
+  width: 120px;
+  border: 1px solid white;
+  text-transform:uppercase;
+  background-color: #c4c4c490;
+}
+
+.header .head div .buttons button:hover{
+  background-color: #C4C4C4;
+  font-weight: 500;
+}
+
+/* --------header css end-------- */
+
+/* --------nav css start-------- */
+
+.nav{
+  display: flex;
+  margin: 0;
+  padding: 0px;
+  height: 30px;
+  border-top: 1px solid #D6A64F;
+  border-bottom: 1px solid #D6A64F;
+}
+
+.nav ul{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  list-style: none;
+  gap: 50px;
+}
+
+.nav ul li a{
+  color: #3A3838;
+  text-decoration: none;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.nav ul li.active a{
+  color: #d51e14;
+}
+
+.nav ul li a:hover{
+  color: #d51e14;
+}
+
+/* --------nav css end-------- */
+
+/* --------main css end-------- */
+
+.container{
+  min-height: 90vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  /* justify-content:space-evenly; */
+  background: url(./images/white_texture_2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.dashboard{
+  z-index: 0;
+  /* border: 2px solid red; */
+  margin: 0 40px;
+  padding: 50px;
+  width: 95%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background:linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.6));
+}
+
+.dashboard>div{
+  /* border: 2px solid #7C0B05; */
+  box-shadow: 2px 2px 6px grey;
+  width: 300px;
+  height: 400px;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center;
+  line-height: 0px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dashboard img{
+  width: 220px;
+  height: 275px;
+  border: 5px double #D6A64F; 
+  padding: 2px;
+  border-radius: 5%;
+}
+
+.dashboard .db_details{
+  transition: all 0.5s ease-in-out 0.5s;
+  background-color: transparent;
+  background:radial-gradient(rgba(255, 255, 255, 0) 50%, rgba(255, 234, 151, 0));
+}
+
+.dashboard .db_details:hover{
+  filter: drop-shadow(0px 10px 50px rgb(185, 255, 242));
+  /* filter: grayscale(100%); */
+  /* background:radial-gradient(rgb(255, 255, 255) 50%, rgba(255, 234, 151, 0.502)); */
+}
+
+.dashboard .db_details h1{
+  font-size: 30px;
+}
+.dashboard .db_details h2{
+  font-size: 20px;
+  font-family:'Courier New', Courier, monospace;
+  text-shadow: 1px 2px 10px rgb(70, 70, 70);
+}
+
+.dashboard .db_text{
+  font-size: 10px;
+  width: 80%;
+  margin-left: 2rem;
+  position: relative;
+  transition: all 0.5s ease-in-out 0.5s;
+  overflow: hidden;
+}
+
+.dashboard .db_text::before{
+  content: '';
+  /* border: 2px solid red; */
+  height: 70px;
+  width: 80%;
+  position: absolute;
+  transform: rotate(0.2turn);
+  z-index: 0;
+  left: -600px;
+  transition: all 1.5s ease-in-out 0.1s;
+  background: url(./images/absract.jpg);
+  /* background-position: center; */
+  /* background-size: contain; */
+  filter:blur(30px) hue-rotate(10deg);
+}
+
+.dashboard .db_text:hover::before{
+  filter:blur(10px) hue-rotate(300deg);
+  transform: rotate(0.3turn);
+  left: 800px;
+}
+
+.dashboard .db_text h2{
+  font-size: 2.5rem;
+  text-shadow: 0px 2px 10px #f0b952;
+  color: #000;
+  margin-bottom: 50px;
+  z-index: 1;
+}
+
+.dashboard .db_text p{
+  font-size: 1.25rem;
+  margin: 15px;
+  padding: 0;
+  z-index: 1;
+}
+
+.course_reviews{
+  margin-top: 10px;
+/* border: 2px solid red; */
+width: 90%;
+height: auto;
+min-height: 500px;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: flex-start;
+box-shadow:  1px 1px 5px #c1bbbb;
+position: relative;
+}
+
+.course_reviews h2{
+  font-size: 30px;
+  font-weight: 400;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.course_reviews .button{
+  background-color: #7C0B05;
+  color: white;
+  border: none;
+  padding: 25px;
+  width: 400px;
+  text-align: center !important;
+  font-size: 16px;
+  font-weight: 300;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.course_reviews .button option:nth-of-type(odd){
+  text-align: left;
+  background-color: #e4e4e4;
+  color: #000;
+}
+.course_reviews .button option:nth-of-type(even){
+  text-align: left;
+  background-color: #efeeee;
+  color: #000;
+}
+
+.course_reviews p {
+  font-size: 26px;
+  padding: 20px 50px;
+  text-align: center;
+  color: #242424;
+  /* border: 2px solid red; */
+}
+.course_reviews span{
+  font-size: 17px;
+  position: absolute;
+  bottom: 10px;
+  color: #838383;
+  border-top: 1px solid gray;
+}
+
+#quote{
+  color: #b5b5b5;
+  font-family: 'Font Awesome 6 Brands';
+  letter-spacing: 2px;
+  font-weight: 100;
+  font-style: italic;
+  position: absolute;
+  bottom: 0px;
+}
+
+/* --------main css end-------- */
+
+/* --------footer css start-------- */
+
+.footer{
+  /* font-size: 20px; */
+  width: 100%;
+  /* border: 2px solid red; */
+  position: relative;
+  bottom: 0;
+}
+
+.foot1, .foot2{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 100px;
+}
+
+.foot1{
+  background-color: #D6A64F;
+  font-size: 18px;
+}
+
+.foot2{
+  background-color: #7C0B05;
+  color: white;
+}
+
+/* --------footer css end-------- */
