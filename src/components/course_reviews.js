@@ -16,7 +16,7 @@ export default function CourseReviews(){
 
     return (
         <div className="course_reviews">
-            <h2>Course Search</h2>
+            <h2 className="title">Course Search</h2>
             
             <select name="select_dept" className="button" value={department} id="dept" onChange={(e)=>{
                     const selectedDepartment = e.target.value;

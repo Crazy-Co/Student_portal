@@ -212,7 +212,7 @@ box-shadow:  1px 1px 5px #c1bbbb;
 position: relative;
 }
 
-.course_reviews h2{
+.title{
   font-size: 30px;
   font-weight: 400;
   text-align: center;
@@ -268,6 +268,50 @@ position: relative;
 }
 
 /* --------main css end-------- */
+
+
+/* --------feedback css start-------- */
+.feedback{
+  margin: 15px;
+  padding: 5px;
+  /* border: 2px solid red; */
+  box-shadow: 1px 1px 5px #777;
+  width: 85%;
+  height: 70vh;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.wrapper{
+  display: grid;
+  /* grid-gap: 10px; */
+  padding: 5px;
+  place-items: center; 
+  column-gap: 5px;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+}
+
+.feedback .box{
+  border: 2px solid red;
+  height: 55vh;
+  width: 600px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.feedback #feedback_text{
+  height: 200px;
+}
+
+.feedback::-webkit-scrollbar{
+  display: none;
+}
+
+/* --------feedback css end-------- */
 
 /* --------footer css start-------- */
 

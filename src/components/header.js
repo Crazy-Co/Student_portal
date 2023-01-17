@@ -27,6 +27,7 @@ const Header = () => {
           <ul>
             <CustomLink to="./">Dashboard</CustomLink>
             <CustomLink to="./course_reviews">Course Reviews</CustomLink>
+            <CustomLink to="./feedback">Feedback</CustomLink>
           </ul>
         </div>
       </div>
@@ -45,7 +46,6 @@ const Header = () => {
       </li>
     );
   }
-  
 
 };
 

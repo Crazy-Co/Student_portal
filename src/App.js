@@ -8,6 +8,7 @@ import { Quote } from "./components/greet";
 import Dashboard from "./components/dashboard";
 import CourseReviews from "./components/course_reviews";
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
+import Feedback from "./components/feedback";
 
 function App() {
 
@@ -20,11 +21,11 @@ function App() {
           {/* <Greet name="Khushdev Yogi"/> */}
       <Routes>
         <Route exact path="/course_reviews" element={<CourseReviews />} />
-        <Route exact path="/" element={<Dashboard name='Khushdev' rollNo='CE21B070' up_votes='55' down_votes='14'  />} />
+        <Route exact path="/" element={<Dashboard name='YESHWANTH' rollNo='MM21B026' up_votes='55' down_votes='14'  />} />
+        <Route exact path="/feedback" element={<Feedback />} />
       </Routes>
           <Quote />
       </div>
-
       <Footer />
 
     </div>
