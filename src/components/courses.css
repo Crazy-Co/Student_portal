@@ -6,6 +6,8 @@
   height: 350px;
   width: 90%;
   margin: 5px 0px;
+  margin-left: auto;
+  margin-right: auto;
   /* padding: 15px; */
   overflow: hidden;
   overflow-y: auto;
@@ -45,6 +47,23 @@
 }
 .courses table tr td:nth-child(3),
 .courses table tr td:nth-child(4) {
+    width: 100px;
+    text-align: center;
+    color: rgb(100, 100, 100);
+}
+
+.courses table th:first-child {
+  text-align: center;
+  width: 300px;
+}
+
+.courses table th:nth-child(2) {
+  width: 600px;
+  padding-left: 100px;
+}
+
+.courses table tr th:nth-child(3),
+.courses table tr th:nth-child(4) {
     width: 100px;
     text-align: center;
     color: rgb(100, 100, 100);
